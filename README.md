@@ -17,3 +17,7 @@ To change the settings for the retro shader, open `Assets/Materials/RetroEffect.
 `DitherAmount` is the intensity of the dither effect. The default is 0.1.
 
 `PixelationAccuracy` is the resolution of the image produced after the application of the pixelation effect. The larger this value is, the more pixelation you will see. The default is 0.004.
+
+## Images
+
+![Screenshot](Assets/Images/sample.jpg)
